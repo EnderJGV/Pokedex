@@ -1,7 +1,5 @@
 # 🔍 Pokédex | Digital Innovation One
 
-![Pokédex Banner](https://pokedex-liard-theta.vercel.app/assets/img/pokedex.png)
-
 Este é um projeto de Pokédex desenvolvido como parte de um desafio da [Digital Innovation One](https://www.dio.me). A aplicação consome dados da PokéAPI e permite que usuários pesquisem e visualizem informações detalhadas sobre diversos pokémons.
 
 🔗 **[Acesse o Projeto Aqui](https://pokedex-liard-theta.vercel.app/)**
