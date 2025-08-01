@@ -1,17 +1,34 @@
-# Pokédex Digital Innovation One
+# 🔍 Pokédex | Digital Innovation One
 
-Este é um projeto de Pokédex criado com o auxílio da Digital Innovation One. A aplicação permite que os usuários pesquisem e vejam informações detalhadas sobre diferentes pokémons.
+![Pokédex Banner](https://pokedex-liard-theta.vercel.app/assets/img/pokedex.png)
 
-## Funcionalidades
-Pesquisa de pokémons por nome ou número. Exibição de informações detalhadas sobre cada pokémon, incluindo:
-- Nome
-- Número
-- Tipo
-- Habilidades
-- Sprites
+Este é um projeto de Pokédex desenvolvido como parte de um desafio da [Digital Innovation One](https://www.dio.me). A aplicação consome dados da PokéAPI e permite que usuários pesquisem e visualizem informações detalhadas sobre diversos pokémons.
 
-## Tecnologias Utilizadas
+🔗 **[Acesse o Projeto Aqui](https://pokedex-liard-theta.vercel.app/)**
 
- - HTML
- - CSS
- - Javascript
+---
+
+## ⚙️ Funcionalidades
+- 📋 **Exibição de informações detalhadas**, incluindo:
+  - Nome
+  - Número (ID)
+  - Tipo(s)
+  - Habilidades
+  - Sprites oficiais
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**  
+- **CSS3**
+- **JavaScript (Vanilla JS)**
+- **[PokéAPI](https://pokeapi.co/)** (consumo de dados)
+
+---
+
+## 📦 Como Rodar Localmente
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/pokedex-dio.git
