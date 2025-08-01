@@ -29,4 +29,4 @@ Este é um projeto de Pokédex desenvolvido como parte de um desafio da [Digital
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/pokedex-dio.git
+   git clone https://github.com/EnderJGV/Pokedex
